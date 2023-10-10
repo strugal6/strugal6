@@ -1,10 +1,12 @@
 ### boas vindas ao meu perfil 💙
 
-meu nome é Eduarda Strugl
+meu nome é Eduarda Strugal
 
--Estou estudando no Alura
--Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização dos meus projetos desenvolvidos
+- Estou estudando no [Alura](http://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização dos meus projetos desenvolvidos
 
 ## você entrar em contato comigo 📫
+
 Eduarda.strugal@escola.pr.gov.br
+!.[].(https://media.tenor.com/DxMIq9-tS5YAAAAC/milk-and-mocha-bear-couple.gif)
