@@ -9,4 +9,3 @@ meu nome é Eduarda Strugal
 ## você entrar em contato comigo 📫
 
 Eduarda.strugal@escola.pr.gov.br
-!.[].(https://media.tenor.com/DxMIq9-tS5YAAAAC/milk-and-mocha-bear-couple.gif)
